@@ -20,7 +20,7 @@ ifneq ($(shell test $(MAKE_MAJOR_VER) -gt 3; echo $$?),0)
 $(error Make version $(MAKE_VERSION) is not supported, please install GNU Make 4.x)
 endif
 
-PACKAGE_ROOT      := github.com/nginxinc
+PACKAGE_ROOT      := github.com/ungtb10d
 PACKAGE           := $(PACKAGE_ROOT)/bank-of-sirius
 DATE              ?= $(shell date -u +%FT%T%z)
 VERSION           ?= $(shell cat $(CURDIR)/.version 2> /dev/null || echo 0.0.0)

@@ -26,7 +26,7 @@
     <packaging>pom</packaging>
     <name>Bank of Sirius Parent</name>
     <description>Example banking application</description>
-    <url>https://github.com/nginxinc/bank-of-sirius</url>
+    <url>https://github.com/ungtb10d/bank-of-sirius</url>
 
     <modules>
         <module>src/java-common/telemetry-common</module>

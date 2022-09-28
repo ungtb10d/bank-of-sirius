@@ -11,7 +11,7 @@
 # limitations under the License.
 FROM bos-python
 
-LABEL org.opencontainers.image.source=https://github.com/nginxinc/bank-of-sirius
+LABEL org.opencontainers.image.source=https://github.com/ungtb10d/bank-of-sirius
 
 ENV PORT 8080
 ENV THREADS 4

@@ -14,7 +14,7 @@
 
 FROM bos-java
 
-LABEL org.opencontainers.image.source=https://github.com/nginxinc/bank-of-sirius
+LABEL org.opencontainers.image.source=https://github.com/ungtb10d/bank-of-sirius
 
 ENV APP_NAME transaction-history
 

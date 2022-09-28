@@ -15,7 +15,7 @@
 
 FROM bos-python
 
-LABEL org.opencontainers.image.source=https://github.com/nginxinc/bank-of-sirius
+LABEL org.opencontainers.image.source=https://github.com/ungtb10d/bank-of-sirius
 
 # show python logs as they occur
 ENV PYTHONUNBUFFERED=0

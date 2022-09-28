@@ -15,7 +15,7 @@ The following is a set of guidelines for contributing. We really appreciate that
 * [Java Style Guide](#java-style-guide)
 * [Python Style Guide](#python-style-guide)
 
-[Code of Conduct](https://github.com/nginxinc/nginx-wrapper/blob/master/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/ungtb10d/nginx-wrapper/blob/master/CODE_OF_CONDUCT.md)
 
 ## Ask a Question
 
